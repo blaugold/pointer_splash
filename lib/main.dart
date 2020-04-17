@@ -273,7 +273,7 @@ class RaySplashPainter extends CustomPainter {
   final double strokeWidth;
   final Color color;
   final int rays;
-  final rayCenterOffset;
+  final double rayCenterOffset;
   final double rayHeight;
   final double circleRadius;
 
